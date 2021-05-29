@@ -6,7 +6,7 @@ Usuário admin usando o seeder.
 ##### senha: admin
 
 
-- Faça um clone desse repositório: `git clone https://github.com/Oliveiiraa/CRUD-Books-PHP.git`
+- Faça um clone desse repositório: `git clone https://github.com/Wuirlen/clube_livros.git`
 - Configure o .env a partir do .env-example com os dados do seu db
 - Rode as migrations com `php artisan migrate`
 - Rode o seeders com `php artisan db:seed`
