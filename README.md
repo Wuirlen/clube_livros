@@ -2,8 +2,8 @@
 
 Usuário admin usando o seeder.
 
-##### email: admin@admin.com
-##### senha: admin
+##### Email: admin@admin.com
+##### Senha: admin
 
 
 - Faça um clone desse repositório: `git clone https://github.com/Wuirlen/clube_livros.git`
